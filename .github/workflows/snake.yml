@@ -15,6 +15,10 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    env:
+      # ghaction-github-pages@v4 still targets Node 20; GitHub forces Node 24
+      # from 2026-06-16 — opt in early so breakage surfaces in CI, not silently.
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Generate snake animations
         uses: Platane/snk/svg-only@v3
