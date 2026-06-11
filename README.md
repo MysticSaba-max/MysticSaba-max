@@ -94,8 +94,6 @@ Everything I ship lives at the crossing of **media and the web** — video, file
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysticSaba-max&layout=compact&hide_border=true&bg_color=0a0908&title_color=f2a33c&text_color=e8e3da&langs_count=10" alt="Top languages" height="150" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=MysticSaba-max&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" width="92%" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MysticSaba-max&bg_color=0a0908&color=e8e3da&line=f2a33c&point=ff3d2e&area=true&area_color=f2a33c&hide_border=true" alt="Contribution activity graph" width="92%" />
 
 </div>
