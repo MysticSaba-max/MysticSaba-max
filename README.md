@@ -87,6 +87,8 @@ Everything I ship lives at the crossing of **media and the web** — video, file
 
 ## ◉ Stats
 
+> btw — these only count my **public** contributions ^^ there are **2,000+** more sitting in private repos
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MysticSaba-max&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0908&title_color=f2a33c&icon_color=ff3d2e&text_color=e8e3da&rank_icon=github" alt="GitHub stats" height="170" />
@@ -119,8 +121,6 @@ Everything I ship lives at the crossing of **media and the web** — video, file
 **Got a project that needs *volume*?**
 
 [![Portfolio](https://img.shields.io/badge/→_mysticsaba.com-f2a33c?style=for-the-badge&logoColor=0a0908)](https://mysticsaba.com)
-
-<sub>© 2026 MYSTICSABA — GSAP · THREE.JS · WEB AUDIO</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0a0908,50:ff3d2e,100:f2a33c&section=footer" alt="" width="100%" />
 
