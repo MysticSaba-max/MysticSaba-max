@@ -10,8 +10,7 @@
 &nbsp;
 <a href="https://github.com/MysticSaba-max?tab=followers"><img src="https://img.shields.io/github/followers/MysticSaba-max?style=for-the-badge&logo=github&label=FOLLOW&color=ff3d2e&labelColor=0a0908" alt="GitHub followers" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/DISCORD-mysticsaba_alt-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=0a0908" alt="Discord — mysticsaba_alt" />
-&nbsp;
+<img src="https://img.shields.io/badge/DISCORD-mysticsaba__alt-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=0a0908" alt="Discord — mysticsaba_alt" />
 <img src="https://komarev.com/ghpvc/?username=MysticSaba-max&style=for-the-badge&color=f2a33c&label=VIEWS" alt="Profile views" />
 
 </div>
