@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:f2a33c,50:ff3d2e,100:0a0908&text=MYSTIC%20SABA&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20developer%20%26amp;%20creative%20builder%20%E2%80%94%20vibe%20coder%20in%20France&descSize=18&descAlignY=58&animation=fadeIn" alt="Mystic Saba banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=800&color=F2A33C&center=true&vCenter=true&width=620&lines=I+build+streaming-grade+web+products;Fast%2C+polished%2C+a+little+bit+loud;Movix+%C2%B7+Loadix+%C2%B7+Stmgarenix+%C2%B7+Musix*;Shipping+since+2024+%E2%80%94+from+France" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=500&amp;size=22&amp;duration=3500&amp;pause=800&amp;color=F2A33C&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=I+build+streaming-grade+web+products;Fast%2C+polished%2C+a+little+bit+loud;Movix+%C2%B7+Loadix+%C2%B7+Musix+in+progress;Shipping+since+2024+%E2%80%94+from+France" alt="Movix, Loadix and Musix in progress — building from France since 2024" />
 
 <br />
 
@@ -36,13 +36,13 @@ Everything I ship lives at the crossing of **media and the web** — video, file
 
 ---
 
-## ◉ Shipped, live & loud
+## ◉ Projects
 
-| # | Project | What it is | Stack | Live |
+| # | Project | What it is | Stack | Status / link |
 |---|---------|------------|-------|------|
-| ① | **Movix** | Open-source streaming platform with watch-party sync running on Rust compiled to WASM, realtime on Socket.IO, full Node API behind it | React · TS · Node · MySQL · Redis · Socket.IO · Rust→WASM · Python | [movix.golf](https://movix.golf) |
+| ① | **Movix** | Open-source streaming platform with watch-party sync running on Rust compiled to WASM, realtime on Socket.IO, full Node API behind it | React · TS · Node · MySQL · Redis · Socket.IO · Rust→WASM · Python | [t.me/movix_site](https://t.me/movix_site) |
 | ② | **Loadix** | Francophone DDL/NZB aggregator — strict-TypeScript API (~150 endpoints, Drizzle ORM), brutalist React 19 front, instant search, i18n | React 19 · TS strict · Tailwind 4 · TanStack Query · Zustand · Node 22 · Drizzle · Docker | [loadix.fun](https://loadix.fun) |
-| ③ | **Stmgarenix** | Community arena ranking streaming sites by public vote — fingerprint-based anti-fraud keeps the leaderboard honest | React 19 · Vite 7 · Tailwind 4 · shadcn/ui · FingerprintJS · Node | [stmgarenix.fr](https://stmgarenix.fr) |
+| ③ | **STMGArenix** | Former community platform for ranking streaming sites by public vote. Discontinued; source code preserved for reference | React 19 · Vite 7 · Tailwind 4 · shadcn/ui · FingerprintJS · Node | **Discontinued** · [Source archive](https://github.com/MysticSaba-max/STMGArenix) |
 | ④ | **Musix** | Hi-fi music experience in the same family — living lyrics, sound you can *see* | Web Audio API · TS · Three.js | *coming soon* |
 
 ---
@@ -56,8 +56,8 @@ Everything I ship lives at the crossing of **media and the web** — video, file
 ![Vite](https://img.shields.io/badge/Vite-0a0908?style=for-the-badge&logo=vite&logoColor=BD34FE)
 ![Tailwind](https://img.shields.io/badge/Tailwind_4-0a0908?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0a0908?style=for-the-badge&logo=shadcnui&logoColor=ffffff)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-0a0908?style=for-the-badge&logo=reactquery&logoColor=FF4154)
-![Zustand](https://img.shields.io/badge/Zustand-0a0908?style=for-the-badge&logo=react&logoColor=f2a33c)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-0a0908?style=for-the-badge&logo=tanstack&logoColor=FF4154)
+![Zustand](https://img.shields.io/badge/Zustand-0a0908?style=for-the-badge)
 
 **BACKEND & DATA**
 
@@ -78,24 +78,24 @@ Everything I ship lives at the crossing of **media and the web** — video, file
 
 **MOTION / UI**
 
-![GSAP](https://img.shields.io/badge/GSAP-0a0908?style=for-the-badge&logo=greensock&logoColor=88CE02)
+![GSAP](https://img.shields.io/badge/GSAP-0a0908?style=for-the-badge&logo=gsap&logoColor=0AE448)
 ![Three.js](https://img.shields.io/badge/Three.js-0a0908?style=for-the-badge&logo=threedotjs&logoColor=ffffff)
-![Web Audio](https://img.shields.io/badge/Web_Audio_API-0a0908?style=for-the-badge&logo=musicbrainz&logoColor=f2a33c)
+![Web Audio](https://img.shields.io/badge/Web_Audio_API-0a0908?style=for-the-badge)
 
 ---
 
 ## ◉ Stats
 
-> btw — these only count my **public** contributions ^^ there are **2,000+** more sitting in private repos
+> Public GitHub activity; private repositories are not included. Stats and language cards refresh daily.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MysticSaba-max&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0908&title_color=f2a33c&icon_color=ff3d2e&text_color=e8e3da&rank_icon=github" alt="GitHub stats" height="170" />
-<img src="https://streak-stats.demolab.com/?user=MysticSaba-max&hide_border=true&background=0a0908&ring=f2a33c&fire=ff3d2e&currStreakNum=e8e3da&sideNums=e8e3da&currStreakLabel=f2a33c&sideLabels=f2a33c&dates=8a847b" alt="GitHub streak" height="170" />
+<img src="https://raw.githubusercontent.com/MysticSaba-max/MysticSaba-max/output/github-stats.svg" alt="GitHub stats" width="420" />
+<img src="https://streak-stats.demolab.com/?user=MysticSaba-max&amp;hide_border=true&amp;background=0a0908&amp;ring=f2a33c&amp;fire=ff3d2e&amp;currStreakNum=e8e3da&amp;sideNums=e8e3da&amp;currStreakLabel=f2a33c&amp;sideLabels=f2a33c&amp;dates=8a847b" alt="GitHub streak" width="420" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysticSaba-max&layout=compact&hide_border=true&bg_color=0a0908&title_color=f2a33c&text_color=e8e3da&langs_count=10" alt="Top languages" height="150" />
+<img src="https://raw.githubusercontent.com/MysticSaba-max/MysticSaba-max/output/top-languages.svg" alt="Top languages" width="420" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MysticSaba-max&bg_color=0a0908&color=e8e3da&line=f2a33c&point=ff3d2e&area=true&area_color=f2a33c&hide_border=true" alt="Contribution activity graph" width="92%" />
+<p><a href="https://github.com/MysticSaba-max#js-contribution-activity">View live contribution history</a></p>
 
 </div>
 

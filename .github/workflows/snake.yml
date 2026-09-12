@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Refresh profile images
 
 on:
   schedule:
@@ -11,6 +11,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-images
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -20,6 +24,26 @@ jobs:
       # from 2026-06-16 — opt in early so breakage surfaces in CI, not silently.
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
+      # Generate cards locally with the repository token; no shared image API or PAT.
+      # A failed generation leaves the previously published images intact.
+      - name: Generate GitHub stats card
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0a0908&title_color=f2a33c&icon_color=ff3d2e&text_color=e8e3da&rank_icon=github&disable_animations=true
+          path: dist/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=0a0908&title_color=f2a33c&text_color=e8e3da&langs_count=10&disable_animations=true
+          path: dist/top-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+
       - name: Generate snake animations
         uses: Platane/snk/svg-only@v3
         with:
@@ -33,5 +57,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
+          allow_empty_commit: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
