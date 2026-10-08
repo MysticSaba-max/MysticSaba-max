@@ -11,6 +11,7 @@
 <a href="https://github.com/MysticSaba-max?tab=followers"><img src="https://img.shields.io/github/followers/MysticSaba-max?style=for-the-badge&logo=github&label=FOLLOW&color=ff3d2e&labelColor=0a0908" alt="GitHub followers" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/DISCORD-mysticsaba__alt-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=0a0908" alt="Discord — mysticsaba_alt" />
+<a href="https://t.me/ix_annonces"><img src="https://img.shields.io/badge/TELEGRAM-ix__annonces-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=0a0908" alt="Telegram — ix_annonces" /></a>
 <img src="https://komarev.com/ghpvc/?username=MysticSaba-max&style=for-the-badge&color=f2a33c&label=VIEWS" alt="Profile views" />
 
 </div>
@@ -40,10 +41,16 @@ Everything I ship lives at the crossing of **media and the web** — video, file
 
 | # | Project | What it is | Stack | Status / link |
 |---|---------|------------|-------|------|
-| ① | **Movix** | Open-source streaming platform with watch-party sync running on Rust compiled to WASM, realtime on Socket.IO, full Node API behind it | React · TS · Node · MySQL · Redis · Socket.IO · Rust→WASM · Python | [t.me/movix_site](https://t.me/movix_site) |
-| ② | **Loadix** | Francophone DDL/NZB aggregator — strict-TypeScript API (~150 endpoints, Drizzle ORM), brutalist React 19 front, instant search, i18n | React 19 · TS strict · Tailwind 4 · TanStack Query · Zustand · Node 22 · Drizzle · Docker | [loadix.fun](https://loadix.fun) |
+| ① | <img src="https://raw.githubusercontent.com/movixstream/MovixOpenSource/main/brand/movix.svg" width="22" alt="" /> **Movix** | Open-source streaming platform with watch-party sync running on Rust compiled to WASM, realtime on Socket.IO, full Node API behind it | React · TS · Node · MySQL · Redis · Socket.IO · Rust→WASM · Python | [t.me/ix_annonces](https://t.me/ix_annonces) |
+| ② | <img src="https://raw.githubusercontent.com/movixstream/MovixOpenSource/main/brand/loadix.svg" width="22" alt="" /> **Loadix** | Francophone DDL/NZB aggregator — strict-TypeScript API (~150 endpoints, Drizzle ORM), brutalist React 19 front, instant search, i18n | React 19 · TS strict · Tailwind 4 · TanStack Query · Zustand · Node 22 · Drizzle · Docker | [loadix.fun](https://loadix.fun) |
 | ③ | **STMGArenix** | Former community platform for ranking streaming sites by public vote. Discontinued; source code preserved for reference | React 19 · Vite 7 · Tailwind 4 · shadcn/ui · FingerprintJS · Node | **Discontinued** · [Source archive](https://github.com/MysticSaba-max/STMGArenix) |
 | ④ | **Musix** | Hi-fi music experience in the same family — living lyrics, sound you can *see* | Web Audio API · TS · Three.js | *coming soon* |
+
+<img src="https://raw.githubusercontent.com/movixstream/MovixOpenSource/main/brand/groupe-ix.svg" width="44" align="left" alt="ix" />
+
+All four end in **-ix**, and that's the point: together they form **ix**, one family of projects with one look — a letter between brackets, one color per project. News for all of them lands on **[t.me/ix_annonces](https://t.me/ix_annonces)**.
+
+<br clear="left" />
 
 ---
 
